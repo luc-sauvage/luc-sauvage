@@ -1,3 +1,5 @@
+<img src="https://github.com/luc-sauvage/luc-sauvage/blob/main/banner-github.png?raw=true">
+
 <h1 align="left">Hi, I'm Luca 🧔🏽</h1>
 <h3 align="left">Full stack developer with a digital marketing & communication background 🤖</h3>
 
@@ -12,7 +14,7 @@
 <a href="https://linkedin.com/in/lucadalmasso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucadalmasso" height="30" width="40" />https://linkedin.com/in/lucadalmasso</a>
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="4" noshade>
+<hr style="color: #7fd9e2; width: 100%;" size="4" noshade>
 
 <h3 align="left">FrontEnd:</h3>
 <p align="left"> 
