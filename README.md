@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/lucadalmasso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucadalmasso" height="30" width="40" />https://linkedin.com/in/lucadalmasso</a>
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="4" noshade>
+<hr style="color: #7fd9e2;" width= "100%" size="4" noshade>
 
 <h3 align="left">FrontEnd:</h3>
 <p align="left"> 
@@ -29,7 +29,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="1" noshade>
+<hr style="color: #7fd9e2;" width= "100%" size="4" noshade>
 
 <h3 align="left">BackEnd:</h3>
 <p align="left"> 
@@ -40,7 +40,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="1" noshade>
+<hr style="color: #7fd9e2;" width= "100%" size="4" noshade>
 
 <h3 align="left">Other:</h3>
 <p align="left"> 
@@ -48,8 +48,7 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-<hr width= "100%" color="#7fd9e2" size="1" noshade>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true" alt="luc-sauvage" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&show_icons=true&locale=en" alt="luc-sauvage" /></p>
+<hr style="color: #7fd9e2;" width= "100%" size="4" noshade>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true&show_icons=true&bg_color=#7fd9e2&icon_color=#6976c6&title_color=#6976c6&text_color=white" alt="luc-sauvage" /></p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luc-sauvage&show_icons=true&locale=en&layout=compact" alt="luc-sauvage" /></p>
