@@ -1,15 +1,15 @@
 <img src="https://github.com/luc-sauvage/luc-sauvage/blob/main/banner-github.png?raw=true">
 
-<h1 align="left">Hi, I'm Luca 🧔🏽</h1>
-<h3 align="left">Full stack developer with a digital marketing & communication background 🤖</h3>
+<h1 align="left">Luca Dalmasso / luc-sauvage 🧔🏽</h1>
+<h3 align="left">Hi I am Luca, a Berlin based full stack developer with a digital marketing & communication background 🤖</h3>
 
-🔛 currently working on **a couple of websites for friends.**
+🔛 currently working on a couple of websites for friends, **but open for proposals and new challenges**.
 
-🔜 currently learning **Typescript, MongoDB, Socket.io**
+🔜 currently learning **TypeScript, MongoDB, Socket.IO**.
 
-🔝 looking to collaborate on **everything React & Express.**
+🔝 looking to collaborate on **everything React & Express**.
 
-<h3 align="left">?</h3>
+<h3 align="left">Wanna get in touch?</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucadalmasso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucadalmasso" height="30" width="40" />https://linkedin.com/in/lucadalmasso</a>
 </p>
