@@ -51,4 +51,4 @@
 <!-- <hr style="color: #7fd9e2;" width= "100%" size="4" noshade> -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true&show_icons=true&theme=react&card_width=100%" alt="luc-sauvage" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-sauvage&locale=en&layout=compact" alt="luc-sauvage" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-sauvage&count_private=true&locale=en&layout=compact" alt="luc-sauvage" /></p>
