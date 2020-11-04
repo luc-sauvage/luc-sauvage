@@ -49,6 +49,7 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 <!-- <hr style="color: #7fd9e2;" width= "100%" size="4" noshade> -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true&show_icons=true&theme=react&card_width=100%" alt="luc-sauvage" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true&show_icons=true&theme=react&card_width=100%" alt="luc-sauvage" /></p>
+<br> -->
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-sauvage" alt="luc-sauvage" /></p>
 
