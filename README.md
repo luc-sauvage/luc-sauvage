@@ -1,11 +1,5 @@
 <img src="https://github.com/luc-sauvage/luc-sauvage/blob/main/banner-github.png?raw=true">
 
-<style>
-    markdown-body hr {
-           color: #7fd9e2;
-           font-size: 20px;
-       }
-</style>    
 <h1 align="left">Hi, I'm Luca 🧔🏽</h1>
 <h3 align="left">Full stack developer with a digital marketing & communication background 🤖</h3>
 
