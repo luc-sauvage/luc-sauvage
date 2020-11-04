@@ -3,13 +3,13 @@
 <h1 align="left">Hi, I'm Luca 🧔🏽</h1>
 <h3 align="left">Full stack developer with a digital marketing & communication background 🤖</h3>
 
-- 🔭 I’m currently working on **a couple of websites for friends.**
+🔛 currently working on **a couple of websites for friends.**
 
-- 🌱 I’m currently learning **Typescript, MongoDB, Socket.io**
+🔜 currently learning **Typescript, MongoDB, Socket.io**
 
-- 👯 I’m looking to collaborate on **everything React & Express.**
+🔝 looking to collaborate on **everything React & Express.**
 
-<h3 align="left">Wanna chat?</h3>
+<h3 align="left">?</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucadalmasso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucadalmasso" height="30" width="40" />https://linkedin.com/in/lucadalmasso</a>
 </p>
@@ -29,7 +29,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="4" noshade>
+<hr width= "100%" color="#7fd9e2" size="1" noshade>
 
 <h3 align="left">BackEnd:</h3>
 <p align="left"> 
@@ -40,7 +40,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<hr width= "100%" color="#7fd9e2" size="4" noshade>
+<hr width= "100%" color="#7fd9e2" size="1" noshade>
 
 <h3 align="left">Other:</h3>
 <p align="left"> 
@@ -48,5 +48,5 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-<hr width= "100%" color="#7fd9e2" size="4" noshade>
+<hr width= "100%" color="#7fd9e2" size="1" noshade>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&show_icons=true&locale=en" alt="luc-sauvage" /></p>
