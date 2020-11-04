@@ -1,5 +1,3 @@
-<img src="">
-
 <h1 align="left">Hi, I'm Luca 🧔🏽</h1>
 <h3 align="left">Full stack developer with a digital marketing & communication background 🤖</h3>
 
