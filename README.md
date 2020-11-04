@@ -49,5 +49,7 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 <hr width= "100%" color="#7fd9e2" size="1" noshade>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&count_private=true" alt="luc-sauvage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luc-sauvage&show_icons=true&locale=en" alt="luc-sauvage" /></p>
+
 
